@@ -1,0 +1,17 @@
+.env
+*.env
+*.key
+*.pem
+*.log
+.DS_Store
+Thumbs.db
+
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/
+.obsidian/plugins/*/
+
+.claudian/
+
+# Horizon is an independent project and should not be pushed with this vault.
+/Horizon/
