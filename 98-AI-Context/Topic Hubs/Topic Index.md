@@ -20,6 +20,8 @@ tags:
 - [[Content Creation Hub]]
 - [[GEO Hub]]
 - [[AI News Hub]]
+- [[Platform Official Hub]]
+- [[Generative Search Hub]]
 
 ## Rule
 
