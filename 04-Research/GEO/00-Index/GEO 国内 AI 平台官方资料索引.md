@@ -24,11 +24,12 @@ tags:
 | 百度文心智能体 | [[文心智能体平台 - 平台简介]] | `evidence/domestic-platform-official` | 研究智能体平台官方说明 |
 | 百度文心智能体 | [[文心智能体平台 - 核心概念]] | `evidence/domestic-platform-official` | 研究智能体核心概念和开发模型 |
 | 百度搜索 AI 伙伴 | [[百度搜索 AI 伙伴用户协议]] | `evidence/domestic-platform-official` | 研究百度搜索 AI 伙伴产品规则 |
+| DeepSeek | [[DeepSeek 官方资料 - API 与联网搜索]] | `evidence/domestic-platform-official` | 研究 DeepSeek API 形态、网页端联网搜索官方声明与 API 搜索边界 |
+| 豆包 / 火山方舟 / 火山引擎 | [[火山方舟 - Web Search 与联网内容插件]] | `evidence/domestic-platform-official` | 研究火山方舟 Web Search、联网内容插件和工具调用能力 |
 
-## 待补官方源
+## 后续仍需补充
 
 | 平台 | 当前状态 | 处理规则 |
 |---|---|---|
-| 豆包 / 火山引擎 | 待补官方帮助中心、火山方舟联网搜索/插件/智能体文档 | 不用第三方介绍文章代替官方文档 |
-| DeepSeek | 待补官方 API 文档、联网搜索说明、帮助中心 | 若只有第三方接入说明，标为 vendor/material 或 platform-ecosystem |
-
+| 豆包 C 端 App | 已确认火山方舟官方 Web Search / 联网内容插件资料；仍需补豆包 App 帮助中心、来源展示或引用说明 | 不用非官方“豆包官网入口”类页面代替官方文档 |
+| DeepSeek | 已确认 API 文档与网页端联网搜索发布页；仍需补最新联网搜索帮助中心、来源展示、爬虫或 API 搜索说明 | 若只能找到第三方接入说明，标为 vendor/material 或 platform-ecosystem |

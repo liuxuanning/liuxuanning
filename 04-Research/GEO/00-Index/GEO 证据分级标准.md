@@ -65,8 +65,8 @@ tags:
 | 证据标签 | 当前样例 | 可支持的结论 | 不可直接支持的结论 |
 |---|---|---|---|
 | `evidence/global-platform-official` | [[OpenAI Help - ChatGPT Search]]、[[OpenAI Platform - OpenAI crawlers]]、[[Google Search Central - AI features and your website]]、[[Perplexity Help - How does Perplexity work]] | 平台公开说明的搜索、来源展示、爬虫或 AI features 规则 | GEO 排名效果、引用概率、转化提升 |
-| `evidence/domestic-platform-official` | [[百度搜索帮助中心 - 网页搜索帮助]]、[[腾讯云 - 联网搜索 API]]、[[千问 AI 平台 - 联网搜索]]、[[文心智能体平台 - 平台简介]] | 国内平台公开说明的产品能力、API、智能体或搜索入口 | 品牌一定进入答案、推荐链路或排名提升 |
-| `evidence/domestic-platform-ecosystem` | [[待补官方源 - DeepSeek]]、[[待补官方源 - 豆包与火山引擎]] | 后续补源线索、生态观察 | 平台官方结论 |
+| `evidence/domestic-platform-official` | [[百度搜索帮助中心 - 网页搜索帮助]]、[[腾讯云 - 联网搜索 API]]、[[千问 AI 平台 - 联网搜索]]、[[文心智能体平台 - 平台简介]]、[[DeepSeek 官方资料 - API 与联网搜索]]、[[火山方舟 - Web Search 与联网内容插件]] | 国内平台公开说明的产品能力、API、智能体、搜索入口或联网内容插件 | 品牌一定进入答案、推荐链路或排名提升 |
+| `evidence/domestic-platform-ecosystem` | 开发者社区投稿、平台生态文章、第三方接入教程 | 后续补源线索、生态观察 | 平台官方结论 |
 | `evidence/domestic-market-claim` / `evidence/global-market-claim` | 服务商白皮书、榜单、案例、效果数字 | 市场叙事、产品机会、待验证假设 | 官方机制事实或通用效果承诺 |
 
 ## 使用边界

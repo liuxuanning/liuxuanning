@@ -46,6 +46,8 @@ tags:
 - [[OpenAI Platform - OpenAI crawlers]]
 - [[Perplexity Help - How does Perplexity work]]
 - [[Perplexity Help - Pro Search]]
+- [[DeepSeek 官方资料 - API 与联网搜索]]
+- [[火山方舟 - Web Search 与联网内容插件]]
 
 ## Source Layer
 
@@ -77,7 +79,7 @@ SORT file.mtime DESC
 
 ## Gaps And Review Queue
 
-- Missing source: [[待补官方源 - DeepSeek]]、[[待补官方源 - 豆包与火山引擎]] 仍需补直接官方源或明确标注为生态资料。
+- Missing source: DeepSeek 与火山方舟已补直接官方源；仍需补豆包 C 端 App 官方帮助中心、来源展示/引用说明，以及 DeepSeek 最新联网搜索/来源展示/API 搜索说明。
 - Conflicting claims: 官方文档常描述功能能力，行业文章常转写成运营效果；需要在每次引用时标注推论边界。
 - Stale note: 平台帮助中心和开发者文档更新频率高，建议每周复核最近使用的官方源。
 - Needs synthesis: 将 Source Layer 的官方资料抽象成统一字段：平台、地区、资料类型、证明内容、不能证明内容、可用于哪类输出。
@@ -86,7 +88,7 @@ SORT file.mtime DESC
 
 | Date | Inputs Reviewed | Updates Made | Follow Up |
 |---|---:|---|---|
-| 2026-07-22 | 16 篇平台官方源笔记、平台官方资料索引、周度蒸馏报告 | 补齐 Hub 模板结构，明确 official 与 ecosystem 的证据边界 | 优先补 DeepSeek、豆包与火山引擎官方源；完善资料类型字段 |
+| 2026-07-22 | 16 篇平台官方源笔记、平台官方资料索引、周度蒸馏报告 | 补齐 Hub 模板结构，明确 official 与 ecosystem 的证据边界 | 已补 DeepSeek 与火山方舟官方源；后续完善资料类型字段 |
 
 ## Content Opportunities
 

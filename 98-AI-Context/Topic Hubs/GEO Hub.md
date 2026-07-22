@@ -74,7 +74,7 @@ SORT file.mtime DESC
 
 ## Gaps And Review Queue
 
-- Missing source: [[待补官方源 - DeepSeek]]、[[待补官方源 - 豆包与火山引擎]] 仍需确认更直接的官方页面或可信生态来源。
+- Missing source: DeepSeek 与火山方舟已补直接官方源；仍需继续查找豆包 C 端 App 的官方帮助中心、来源展示/引用说明，以及 DeepSeek 最新联网搜索帮助中心或 API 搜索说明。
 - Conflicting claims: 行业解读可能把“平台具备联网搜索”扩展为“可控制引用排名”，该推论需要单独证据支持。
 - Stale note: 暂无因时间久远过期的 GEO 笔记；平台官方能力变化快，建议周度复核 Source Layer。
 - Needs synthesis: 将 [[GEO 平台机制对照表]] 与 [[GEO 证据分级标准]] 合并成一套可供内容/方案使用的判断框架。
@@ -83,7 +83,7 @@ SORT file.mtime DESC
 
 | Date | Inputs Reviewed | Updates Made | Follow Up |
 |---|---:|---|---|
-| 2026-07-22 | 8 篇 GEO 索引笔记、16 篇平台官方源笔记、1 份周度蒸馏报告 | 补齐 Scope、Current Thesis、Key Questions、Canonical Notes、Source Layer、Compiled Knowledge、Outputs And Decisions、Gaps And Review Queue | 补证 DeepSeek、豆包与火山引擎；给核心索引补来源链和证据等级 |
+| 2026-07-22 | 8 篇 GEO 索引笔记、16 篇平台官方源笔记、1 份周度蒸馏报告 | 补齐 Scope、Current Thesis、Key Questions、Canonical Notes、Source Layer、Compiled Knowledge、Outputs And Decisions、Gaps And Review Queue | DeepSeek 与火山方舟已补官方源；继续补豆包 C 端来源展示和 DeepSeek 最新搜索说明 |
 
 ## Content Opportunities
 
